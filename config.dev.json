@@ -20,15 +20,15 @@
     "61585636766133",
     "61579279925067",
     "",
-    ""
+    "61574308718082"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "—͞ 🎀𝗞𝗶𝗽𝗲❤️‍🩹",
-  "prefix": ".",
+  "nickNameBot": "—͞ 🎀🎀𝗣𝗥𝗜𝗡𝗖𝗘𝗦❤️‍🩹",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
